@@ -1,6 +1,5 @@
 title: Data Analysis of Employees
 description: PhD Data Analysis
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-cayman
 google_analytics: false
+theme: jekyll-theme-cayman
